@@ -1,6 +1,0 @@
-amount=float(input("enter the amount:"))
-rupees=int(amount)
-paisa=int((amount-rupees)*100)
-print("Amount:",amount)
-print("Rupees:",rupees)
-print("Paisa:",paisa)
