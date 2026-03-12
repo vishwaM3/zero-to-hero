@@ -1,5 +1,5 @@
 '''For example:
-18 is a Harshad number because 42 is not a Harshad number because 1 + 8 = 9,and 18 is divisible by 9
+18 is a Harshad number because 1 + 8 = 9,and 18 is divisible by 9
  4 + 2 = 6, and 42 is not divisible by 6.'''
 
 
